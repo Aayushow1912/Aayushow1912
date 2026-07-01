@@ -34,8 +34,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,androidstudio,git,langgraph,python,streamlit" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,androidstudio,git,python" />
     <img src="https://skillicons.dev/icons?i=javascript,firebase,c,cpp,mysql,kotlin" /><br>
+
+    <p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge" />
+</p>
 </div>
 
 <br/>
